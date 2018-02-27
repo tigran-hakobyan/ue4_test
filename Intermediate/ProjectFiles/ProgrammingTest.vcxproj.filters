@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\ProgrammingTest.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A6A05B1C-04E3-4E62-9476-EFAB0D641E89}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProgrammingTest.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\ProgrammingTestEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{542FC034-2BA4-47CA-902E-5FAACA9582F6}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\ProgrammingTest">
+			<UniqueIdentifier>{E9373624-67BC-4083-B3F7-257FD0F87996}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\ProgrammingTest\ProgrammingTest.Build.cs">
+			<Filter>Source\ProgrammingTest</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\ProgrammingTest\ProgrammingTest.cpp">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\ProgrammingTest.h">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\ProgrammingTestCharacter.cpp">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\ProgrammingTestCharacter.h">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\ProgrammingTestGameMode.cpp">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\ProgrammingTestGameMode.h">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\ProgrammingTestHUD.cpp">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\ProgrammingTestHUD.h">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\ProgrammingTestProjectile.cpp">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\ProgrammingTestProjectile.h">
+			<Filter>Source\ProgrammingTest</Filter>
+		</ClInclude >
+		<Filter Include="Source\ProgrammingTest\Private">
+			<UniqueIdentifier>{EC51B7A0-F94F-40F8-9870-171AD13A9948}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\ProgrammingTest\Private\FireMechanic.cpp">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\Private\FireMechanic.h">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\Private\HealthPack.cpp">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\Private\HealthPack.h">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\Private\Pickup.cpp">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\Private\Pickup.h">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\ProgrammingTest\Private\SpawnVolume.cpp">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\ProgrammingTest\Private\SpawnVolume.h">
+			<Filter>Source\ProgrammingTest\Private</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

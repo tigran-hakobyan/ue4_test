@@ -1,0 +1,3 @@
+C:\Workspace\Unreal\Starbreeze\ProgrammingTest\Source\ProgrammingTest\ProgrammingTest.Build.cs
+C:\Workspace\Unreal\Starbreeze\ProgrammingTest\Source\ProgrammingTest.Target.cs
+C:\Workspace\Unreal\Starbreeze\ProgrammingTest\Source\ProgrammingTestEditor.Target.cs

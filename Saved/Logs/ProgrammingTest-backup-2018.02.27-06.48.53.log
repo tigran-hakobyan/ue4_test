@@ -1,0 +1,845 @@
+﻿Log file open, 02/27/18 05:54:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: ProgrammingTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-278944223) SRandInit(-278944223).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.574214
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogModuleManager: Display: Found up-to-date module file ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Binaries/Win64/UE4Editor-ProgrammingTest.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  -skipcompile
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.27-04.55.04:020][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.27-04.55.04:020][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.27-04.55.04:065][  0]LogInit: Computer: SHARK-PC
+[2018.02.27-04.55.04:065][  0]LogInit: User: Tigran
+[2018.02.27-04.55.04:065][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.02.27-04.55.04:065][  0]LogInit: High frequency timer resolution =2.435883 MHz
+[2018.02.27-04.55.04:066][  0]LogMemory: Memory total: Physical=3.9GB (4GB approx)
+[2018.02.27-04.55.04:066][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.27-04.55.04:066][  0]LogMemory: Process Physical Memory: 270.79 MB used, 270.79 MB peak
+[2018.02.27-04.55.04:066][  0]LogMemory: Process Virtual Memory: 269.33 MB used, 269.33 MB peak
+[2018.02.27-04.55.04:066][  0]LogMemory: Physical Memory: 2577.85 MB used,  1424.84 MB free, 4002.69 MB total
+[2018.02.27-04.55.04:066][  0]LogMemory: Virtual Memory: 620.81 MB used,  1424.84 MB free, 134217728.00 MB total
+[2018.02.27-04.55.05:327][  0]LogInit: Using OS detected language (en-US).
+[2018.02.27-04.55.05:327][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.27-04.55.05:381][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.27-04.55.06:535][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.27-04.55.08:091][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.27-04.55.08:141][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2018.02.27-04.55.08:141][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.02.27-04.55.08:160][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.27-04.55.08:161][  0]LogD3D11RHI:       0/0/256 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.27-04.55.08:161][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.27-04.55.08:170][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.27-04.55.08:170][  0]LogD3D11RHI:     GPU DeviceId: 0x166 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.27-04.55.08:171][  0]LogWindows: EnumDisplayDevices:
+[2018.02.27-04.55.08:171][  0]LogWindows:    0. 'Intel(R) HD Graphics 4000' (P:1 D:1)
+[2018.02.27-04.55.08:171][  0]LogWindows:    1. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.27-04.55.08:171][  0]LogWindows:    2. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2018.02.27-04.55.08:171][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2018.02.27-04.55.08:172][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4000
+[2018.02.27-04.55.08:172][  0]LogD3D11RHI:   Driver Version: 10.18.10.3345 (internal:10.18.10.3345, unified:10.18.10.3345)
+[2018.02.27-04.55.08:172][  0]LogD3D11RHI:      Driver Date: 10-31-2013
+[2018.02.27-04.55.08:172][  0]LogRHI: Texture pool is 638 MB (70% of 912 MB)
+[2018.02.27-04.55.08:179][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.27-04.55.08:234][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2018.02.27-04.55.08:245][  0]LogShaderCompilers: Guid format shader working directory is -13 characters bigger than the processId version (../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Intermediate/Shaders/WorkingDirectory/396/).
+[2018.02.27-04.55.08:245][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Tigran/AppData/Local/Temp/UnrealShaderWorkingDir/58C24BCD4A832E33A6A87D988E15075A/'.
+[2018.02.27-04.55.08:245][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.27-04.55.10:939][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.27-04.55.11:061][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.27-04.55.11:183][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.27-04.55.11:317][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.27-04.55.11:463][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.27-04.55.11:595][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.27-04.55.11:718][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.27-04.55.11:850][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.27-04.55.11:978][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.27-04.55.12:082][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.27-04.55.12:185][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.27-04.55.12:290][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.27-04.55.12:398][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.27-04.55.12:508][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.27-04.55.12:722][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.27-04.55.12:722][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.27-04.55.12:844][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.27-04.55.12:932][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.27-04.55.13:205][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.27-04.55.13:270][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.27-04.55.13:380][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.27-04.55.13:497][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.27-04.55.13:602][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.27-04.55.13:702][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.27-04.55.13:702][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.27-04.55.15:970][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.27-04.55.17:628][  0]LogDerivedDataCache: Loaded boot cache 1.64s 79MB C:/Users/Tigran/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.27-04.55.17:628][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Tigran/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.27-04.55.17:628][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.27-04.55.17:628][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.27-04.55.17:629][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.27-04.55.17:629][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.27-04.55.17:693][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.27-04.55.17:707][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Tigran/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.27-04.55.17:725][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.27-04.55.17:726][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.27-04.55.17:759][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.27-04.55.17:759][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.27-04.55.20:788][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.27-04.55.22:118][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.27-04.55.22:279][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.27-04.55.22:289][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.27-04.55.22:289][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.27-04.55.22:289][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.27-04.55.22:289][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.27-04.55.22:395][  0]LogNetVersion: ProgrammingTest , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2477573049)
+[2018.02.27-04.55.22:900][  0]LogAssetRegistry: FAssetRegistry took 0.0308 seconds to start up
+[2018.02.27-04.55.26:684][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 1.522795 seconds
+[2018.02.27-04.55.26:691][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.27-04.55.26:691][  0]LogUObjectAllocator: 7363696 out of 0 bytes used by permanent object pool.
+[2018.02.27-04.55.26:691][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.27-04.55.26:922][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.27-04.55.45:658][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.27-04.55.45:839][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.27-04.56.02:558][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.27-04.56.05:239][  0]SourceControl: Source control is disabled
+[2018.02.27-04.56.05:242][  0]SourceControl: Source control is disabled
+[2018.02.27-04.56.05:661][  0]SourceControl: Source control is disabled
+[2018.02.27-04.56.05:902][  0]SourceControl: Source control is disabled
+[2018.02.27-04.56.10:566][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.27-04.56.11:762][  0]LogOcInput: OculusInput pre-init called
+[2018.02.27-04.56.13:335][  0]LogEngine: Initializing Engine...
+[2018.02.27-04.56.13:455][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.27-04.56.14:219][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.27-04.56.14:265][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.004 s
+[2018.02.27-04.56.15:538][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.27-04.56.15:975][  0]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.56.16:443][  0]LogInit: FAudioDevice initialized.
+[2018.02.27-04.56.16:716][  0]LogDerivedDataCache: Saved boot cache 0.26s 79MB C:/Users/Tigran/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.27-04.56.16:786][  0]LogInit: Texture streaming: Enabled
+[2018.02.27-04.56.18:116][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.27-04.56.18:123][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Debugger, SessionId={AEECB503-4D97-AA9B-F38A-579994FC91B6}
+[2018.02.27-04.56.18:719][  0]LogInit: Transaction tracking system initialized
+[2018.02.27-04.56.20:105][  0]BlueprintLog: New page: Editor Load
+[2018.02.27-04.56.25:154][  0]LocalizationService: Localization service is disabled
+[2018.02.27-04.56.27:561][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.02.27-04.56.27:565][  0]LogLinker: Warning: Can't find file '/Game/FirstPersonBP/FirstPersonOverview'
+[2018.02.27-04.56.27:569][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2018.02.27-04.56.29:046][  0]LogConsoleResponse: Display: 
+[2018.02.27-04.56.31:360][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.27-04.56.31:380][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.27-04.56.31:396][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.27-04.56.31:445][  0]LogFileCache: Scanning file cache for directory 'C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Content/' took 0.11s
+[2018.02.27-04.56.36:300][  0]SourceControl: Source control is disabled
+[2018.02.27-04.56.36:353][  0]Cmd: MAP LOAD FILE="../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.27-04.56.36:406][  0]LightingResults: New page: Lighting Build
+[2018.02.27-04.56.36:791][  0]MapCheck: New page: Map Check
+[2018.02.27-04.56.36:792][  0]LightingResults: New page: Lighting Build
+[2018.02.27-04.56.39:571][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-04.56.40:632][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.27-04.56.40:864][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.27-04.56.41:098][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 231.764ms to complete.
+[2018.02.27-04.56.41:099][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 4.770
+[2018.02.27-04.56.49:478][  0]LogCollectionManager: Loaded 0 collections in 0.008883 seconds
+[2018.02.27-04.56.50:166][  0]LogFileCache: Scanning file cache for directory 'C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/Collections/' took 0.01s
+[2018.02.27-04.56.50:166][  0]LogFileCache: Scanning file cache for directory 'C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Developers/Tigran/Collections/' took 0.01s
+[2018.02.27-04.56.50:166][  0]LogFileCache: Scanning file cache for directory 'C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Collections/' took 0.01s
+[2018.02.27-04.56.50:166][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.27-04.56.50:239][  0]LogContentBrowser: Native class hierarchy populated in 0.0534 seconds. Added 2371 classes and 522 folders.
+[2018.02.27-04.56.50:490][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.02.27-04.56.51:490][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.02.27-04.56.51:727][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2018.02.27-04.56.53:031][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2018.02.27-04.56.53:031][  0]LogLoad: (Engine Initialization) Total time: 124.39 seconds
+[2018.02.27-04.56.53:031][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.27-04.56.53:038][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.27-04.56.53:195][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.02.27-04.56.53:268][  0]LogSlate: Took 0.013601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.27-04.56.53:287][  0]LogSlate: Took 0.012532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.27-04.56.53:322][  0]LogSlate: Took 0.014646 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.27-04.56.53:853][  1]LogRenderer: Reallocating scene render targets to support 804x272 Format 9 NumSamples 1 (Frame:1).
+[2018.02.27-04.56.56:176][  1]LogSlate: Took 0.009991 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.27-04.57.00:706][  4]LogAssetRegistry: Asset discovery search completed in 97.8296 seconds
+[2018.02.27-04.57.00:717][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.27-04.57.00:722][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.005969 seconds (updated 0 objects)
+[2018.02.27-04.58.10:052][266]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-04.58.11:269][266]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-04.58.11:316][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-04.58.11:594][266]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 6:58:11 AM)
+[2018.02.27-04.58.11:723][266]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-04.58.12:507][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.783370s)
+[2018.02.27-04.58.12:632][266]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-04.58.12:693][266]LogPlayLevel: PIE: World Init took: (0.185623s)
+[2018.02.27-04.58.12:719][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.996891s)
+[2018.02.27-04.58.13:031][266]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-04.58.13:137][266]LogInit: FAudioDevice initialized.
+[2018.02.27-04.58.13:520][266]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-04.58.13:872][266]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-05.58.13
+[2018.02.27-04.58.14:062][266]LogWorld: Bringing up level for play took: 0.292696
+[2018.02.27-04.58.16:351][266]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0329 seconds. Added 11 classes and 0 folders.
+[2018.02.27-04.58.16:375][266]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-04.58.16:376][266]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-04.58.16:376][266]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-04.58.16:468][266]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-04.58.16:499][266]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 5.451
+[2018.02.27-04.58.16:520][266]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-04.58.38:036][475]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-04.58.39:688][475]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-04.59.59:030][403]LogSlate: Took 0.025734 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.27-04.59.59:288][403]LogSlate: Took 0.024577 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.27-05.00.04:674][403]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 116 classes and 0 folders.
+[2018.02.27-05.00.29:366][914]LogSavePackage: Save=463.92ms
+[2018.02.27-05.00.29:366][914]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacterC60D1C70445E11C756D0949529F8FB3C.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.00.29:423][914]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.00.32:502][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.00.32:950][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.00.32:951][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.00.32:951][ 30]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:00:32 AM)
+[2018.02.27-05.00.32:951][ 30]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.00.33:004][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.052507s)
+[2018.02.27-05.00.33:005][ 30]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.00.33:006][ 30]LogPlayLevel: PIE: World Init took: (0.002147s)
+[2018.02.27-05.00.33:007][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.055428s)
+[2018.02.27-05.00.33:052][ 30]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.00.33:060][ 30]LogInit: FAudioDevice initialized.
+[2018.02.27-05.00.33:119][ 30]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.00.33:143][ 30]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.00.33
+[2018.02.27-05.00.33:145][ 30]LogWorld: Bringing up level for play took: 0.024486
+[2018.02.27-05.00.33:148][ 30]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.00.33:148][ 30]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.00.33:148][ 30]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.00.33:150][ 30]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.00.33:170][ 30]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.123
+[2018.02.27-05.00.33:171][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.00.47:508][851]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.00.47:552][851]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.00.50:245][979]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.01.02:035][523]LogSavePackage: Save=63.41ms
+[2018.02.27-05.01.02:035][523]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter5879061041522C97C3E1BC992D3CC44F.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.01.02:037][523]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.01.07:510][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.01.07:532][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.01.07:533][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.01.07:533][813]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:01:07 AM)
+[2018.02.27-05.01.07:534][813]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.01.07:560][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025891s)
+[2018.02.27-05.01.07:577][813]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.01.07:578][813]LogPlayLevel: PIE: World Init took: (0.018031s)
+[2018.02.27-05.01.07:578][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.044568s)
+[2018.02.27-05.01.07:606][813]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.01.07:628][813]LogInit: FAudioDevice initialized.
+[2018.02.27-05.01.07:664][813]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.01.07:667][813]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.01.07
+[2018.02.27-05.01.07:668][813]LogWorld: Bringing up level for play took: 0.003263
+[2018.02.27-05.01.07:669][813]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.01.07:669][813]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.01.07:669][813]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.01.07:670][813]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.01.07:671][813]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.623
+[2018.02.27-05.01.07:671][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.01.11:307][ 22]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.01.11:357][ 22]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.02.29:145][755]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.29:179][756]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.29:549][757]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.29:839][758]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.32:370][760]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.32:701][761]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.33:550][762]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.34:512][763]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.34:646][764]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2018.02.27-05.02.49:035][487]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.03.08:196][285]LogSavePackage: Save=34.62ms
+[2018.02.27-05.03.08:196][285]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter08CA6E6B4BE7C7CC3EFE6BB1F6C34814.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.03.08:232][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.03.12:185][479]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.03.12:207][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.12:208][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.03.12:208][479]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:03:12 AM)
+[2018.02.27-05.03.12:208][479]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.03.12:253][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.044422s)
+[2018.02.27-05.03.12:254][479]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.03.12:255][479]LogPlayLevel: PIE: World Init took: (0.002010s)
+[2018.02.27-05.03.12:256][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.047359s)
+[2018.02.27-05.03.12:287][479]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.03.12:293][479]LogInit: FAudioDevice initialized.
+[2018.02.27-05.03.12:328][479]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.03.12:331][479]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.03.12
+[2018.02.27-05.03.12:332][479]LogWorld: Bringing up level for play took: 0.003487
+[2018.02.27-05.03.12:333][479]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.03.12:334][479]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.03.12:334][479]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.03.12:334][479]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.03.12:335][479]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.713
+[2018.02.27-05.03.12:335][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.24:476][197]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.24:527][197]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.31:355][552]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.03.42:772][  9]LogSavePackage: Save=78.22ms
+[2018.02.27-05.03.42:772][  9]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter881665484FB2192327098792D9F889CA.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.03.42:776][  9]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.03.45:796][142]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.03.45:818][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.45:818][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.03.45:819][142]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:03:45 AM)
+[2018.02.27-05.03.45:819][142]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.03.45:850][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030721s)
+[2018.02.27-05.03.45:854][142]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.03.45:855][142]LogPlayLevel: PIE: World Init took: (0.004861s)
+[2018.02.27-05.03.45:855][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036428s)
+[2018.02.27-05.03.45:893][142]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.03.45:899][142]LogInit: FAudioDevice initialized.
+[2018.02.27-05.03.45:941][142]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.03.45:944][142]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.03.45
+[2018.02.27-05.03.45:945][142]LogWorld: Bringing up level for play took: 0.003321
+[2018.02.27-05.03.45:956][142]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.03.45:957][142]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.03.45:957][142]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.03.45:958][142]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.03.45:958][142]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.91
+[2018.02.27-05.03.45:958][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.51:162][445]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.51:209][445]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.03.53:630][544]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.04.02:308][888]LogSavePackage: Save=33.14ms
+[2018.02.27-05.04.02:309][888]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter1F01F6BB4B0AEE951679149859C7CF39.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.04.02:311][888]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.04.04:784][  3]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.04.04:808][  3]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.04:808][  3]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.04.04:808][  3]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:04:04 AM)
+[2018.02.27-05.04.04:809][  3]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.04.04:833][  3]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024051s)
+[2018.02.27-05.04.04:837][  3]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.04.04:838][  3]LogPlayLevel: PIE: World Init took: (0.005033s)
+[2018.02.27-05.04.04:839][  3]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029940s)
+[2018.02.27-05.04.04:872][  3]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.04.04:878][  3]LogInit: FAudioDevice initialized.
+[2018.02.27-05.04.04:920][  3]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.04.04:923][  3]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.04.04
+[2018.02.27-05.04.04:934][  3]LogWorld: Bringing up level for play took: 0.013489
+[2018.02.27-05.04.04:935][  3]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.04:935][  3]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.04:935][  3]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.04:936][  3]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.04:936][  3]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.111
+[2018.02.27-05.04.04:937][  3]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.12:222][433]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.12:269][433]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.15:152][564]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.04.32:347][272]LogSavePackage: Save=32.82ms
+[2018.02.27-05.04.32:347][272]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacterA20426BF4CB2AE3E64A06790D54959F2.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.04.32:350][272]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.04.34:893][391]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.04.34:915][391]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.34:916][391]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.04.34:916][391]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:04:34 AM)
+[2018.02.27-05.04.34:916][391]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.04.34:945][391]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028860s)
+[2018.02.27-05.04.34:947][391]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.04.34:958][391]LogPlayLevel: PIE: World Init took: (0.012588s)
+[2018.02.27-05.04.34:958][391]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.042172s)
+[2018.02.27-05.04.34:990][391]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.04.34:997][391]LogInit: FAudioDevice initialized.
+[2018.02.27-05.04.35:034][391]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.04.35:037][391]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.04.35
+[2018.02.27-05.04.35:038][391]LogWorld: Bringing up level for play took: 0.003316
+[2018.02.27-05.04.35:039][391]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.35:039][391]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.35:039][391]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.35:040][391]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.35:041][391]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.007
+[2018.02.27-05.04.35:041][391]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.38:241][576]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.38:284][576]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.40:150][649]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.04.48:955][999]LogSavePackage: Save=34.09ms
+[2018.02.27-05.04.48:955][999]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter6F055B884B2BFB2EB78FA8854018E0DC.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.04.48:958][999]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.04.51:026][ 90]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.04.51:050][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.51:059][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.04.51:059][ 90]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:04:51 AM)
+[2018.02.27-05.04.51:059][ 90]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.04.51:082][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022150s)
+[2018.02.27-05.04.51:087][ 90]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.04.51:087][ 90]LogPlayLevel: PIE: World Init took: (0.005316s)
+[2018.02.27-05.04.51:088][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028314s)
+[2018.02.27-05.04.51:117][ 90]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.04.51:124][ 90]LogInit: FAudioDevice initialized.
+[2018.02.27-05.04.51:160][ 90]LogLoad: Game class is 'ProgrammingTestGameMode'
+[2018.02.27-05.04.51:163][ 90]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.04.51
+[2018.02.27-05.04.51:164][ 90]LogWorld: Bringing up level for play took: 0.003204
+[2018.02.27-05.04.51:165][ 90]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.51:165][ 90]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.04.51:165][ 90]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.51:166][ 90]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.04.51:166][ 90]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.119
+[2018.02.27-05.04.51:167][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.59:290][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.04.59:337][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.05.28:096][797]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.27-05.05.30:245][804]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProgrammingTest
+[2018.02.27-05.05.30:261][804]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.27-05.05.30:261][804]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.02.27-05.05.30:261][804]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.27-05.05.30:261][804]LogTemp: BranchPath = SHARK-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = SHARK-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.02.27-05.05.30:262][804]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Tigran\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.27-05.06.39:534][294]LogWindows: LaunchFileInExternalEditor C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Source/ProgrammingTest/ProgrammingTestGameMode.h 
+[2018.02.27-05.06.40:412][294]LogWindows: Launch application code for C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Source/ProgrammingTest/ProgrammingTestGameMode.h : 42
+[2018.02.27-05.06.40:412][294]LogWindows: LaunchFileInExternalEditor C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Source/ProgrammingTest/ProgrammingTestGameMode.cpp 
+[2018.02.27-05.06.40:771][294]LogWindows: Launch application code for C:/Workspace/Unreal/Starbreeze/ProgrammingTest/Source/ProgrammingTest/ProgrammingTestGameMode.cpp : 42
+[2018.02.27-05.06.40:773][294]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2018.02.27-05.06.40:777][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:777][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:777][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:777][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:778][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:779][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:780][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:781][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:950][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:950][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:951][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:951][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:952][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:989][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.40:990][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.41:181][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.41:317][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.41:318][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.44:928][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.06.44:933][294]LogVSAccessor: Warning: Couldn't access module table
+[2018.02.27-05.07.28:825][635]LogSlate: Took 0.013749 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.27-05.07.43:960][462]LogRenderer: Reallocating scene render targets to support 804x520 Format 9 NumSamples 1 (Frame:1).
+[2018.02.27-05.09.17:598][931]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.02.27-05.09.17:763][936]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.ProgrammingTest
+[2018.02.27-05.09.17:763][936]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.27-05.09.17:763][936]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.18
+[2018.02.27-05.09.17:763][936]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.18\Engine\Binaries\DotNET\IOS
+[2018.02.27-05.09.17:763][936]LogTemp: BranchPath = SHARK-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries --- GameBranchPath = SHARK-PC/C/Program Files/Epic Games/UE_4.18/Engine/Binaries
+[2018.02.27-05.09.17:796][937]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\Tigran\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.02.27-05.09.23:419][240]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.02.27-05.09.52:161][715]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.09.52:230][715]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.09.52:231][715]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.09.52:231][715]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:09:52 AM)
+[2018.02.27-05.09.52:231][715]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.09.52:259][715]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027619s)
+[2018.02.27-05.09.52:261][715]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.09.52:261][715]LogPlayLevel: PIE: World Init took: (0.001883s)
+[2018.02.27-05.09.52:262][715]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.030488s)
+[2018.02.27-05.09.52:297][715]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.09.52:305][715]LogInit: FAudioDevice initialized.
+[2018.02.27-05.09.52:344][715]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.09.52:348][715]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.09.52
+[2018.02.27-05.09.52:348][715]LogWorld: Bringing up level for play took: 0.003472
+[2018.02.27-05.09.52:350][715]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.09.52:358][715]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.09.52:358][715]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.09.52:359][715]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.09.52:359][715]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.689
+[2018.02.27-05.09.52:360][715]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.09.58:436][ 72]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.09.58:482][ 72]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.10.27:825][526]LogSavePackage: Save=132.97ms
+[2018.02.27-05.10.27:826][526]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP612F6EF54004E485752AC0A1BC35EC08.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.10.27:829][526]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.10.31:442][725]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.10.31:461][725]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.10.31:461][725]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.10.31:461][725]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:10:31 AM)
+[2018.02.27-05.10.31:461][725]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.10.31:492][725]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030753s)
+[2018.02.27-05.10.31:497][725]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.10.31:497][725]LogPlayLevel: PIE: World Init took: (0.005049s)
+[2018.02.27-05.10.31:498][725]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036581s)
+[2018.02.27-05.10.31:559][725]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.10.31:566][725]LogInit: FAudioDevice initialized.
+[2018.02.27-05.10.31:607][725]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.10.31:610][725]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.10.31
+[2018.02.27-05.10.31:611][725]LogWorld: Bringing up level for play took: 0.003235
+[2018.02.27-05.10.31:612][725]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.10.31:612][725]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.10.31:612][725]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.10.31:613][725]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.10.31:613][725]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.567
+[2018.02.27-05.10.31:614][725]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.10.47:709][684]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.10.47:757][684]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.01:122][365]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.11.17:484][155]LogSavePackage: Save=47.45ms
+[2018.02.27-05.11.17:484][155]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP5F4824FC41528A13FD2AA6B80B762232.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.11.17:487][155]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.11.20:722][331]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.11.20:745][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.20:775][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.11.20:775][331]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:11:20 AM)
+[2018.02.27-05.11.20:775][331]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.11.20:807][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031400s)
+[2018.02.27-05.11.20:808][331]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.11.20:809][331]LogPlayLevel: PIE: World Init took: (0.001890s)
+[2018.02.27-05.11.20:810][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034164s)
+[2018.02.27-05.11.20:842][331]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.11.20:849][331]LogInit: FAudioDevice initialized.
+[2018.02.27-05.11.20:885][331]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.11.20:889][331]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.11.20
+[2018.02.27-05.11.20:890][331]LogWorld: Bringing up level for play took: 0.003431
+[2018.02.27-05.11.20:891][331]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.11.20:891][331]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.11.20:891][331]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.11.20:892][331]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.11.20:892][331]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.155
+[2018.02.27-05.11.20:893][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.23:813][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.23:855][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.28:564][716]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.11.48:843][697]LogSavePackage: Save=44.13ms
+[2018.02.27-05.11.48:843][697]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP79F58A52440CD64271386DBD46B7CD27.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.11.48:857][697]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.11.52:081][866]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.11.52:100][866]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.52:101][866]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.11.52:101][866]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:11:52 AM)
+[2018.02.27-05.11.52:101][866]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.11.52:127][866]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025133s)
+[2018.02.27-05.11.52:128][866]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.11.52:129][866]LogPlayLevel: PIE: World Init took: (0.002028s)
+[2018.02.27-05.11.52:129][866]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.028048s)
+[2018.02.27-05.11.52:163][866]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.11.52:170][866]LogInit: FAudioDevice initialized.
+[2018.02.27-05.11.52:211][866]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.11.52:214][866]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.11.52
+[2018.02.27-05.11.52:215][866]LogWorld: Bringing up level for play took: 0.003186
+[2018.02.27-05.11.52:216][866]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.11.52:216][866]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.11.52:216][866]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.11.52:217][866]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.11.52:218][866]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.83
+[2018.02.27-05.11.52:218][866]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.57:305][165]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.11.57:351][165]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.12.10:979][833]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.12.19:110][174]LogSavePackage: Save=42.12ms
+[2018.02.27-05.12.19:111][174]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/FirstPersonCharacter49D805B743254BB31E6D65BD75A04B4C.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset'
+[2018.02.27-05.12.19:112][174]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/FirstPersonCPP/Blueprints/FirstPersonCharacter.uasset
+[2018.02.27-05.12.27:169][562]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.12.58:238][138]LogSavePackage: Save=36.68ms
+[2018.02.27-05.12.58:238][138]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP95A5AE7E4E6E720EC375FB98DF855E18.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.12.58:240][138]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.13.02:653][373]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.13.02:671][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.02:671][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.13.02:672][373]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:13:02 AM)
+[2018.02.27-05.13.02:672][373]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.13.02:697][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025356s)
+[2018.02.27-05.13.02:702][373]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.13.02:703][373]LogPlayLevel: PIE: World Init took: (0.005197s)
+[2018.02.27-05.13.02:703][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.031409s)
+[2018.02.27-05.13.02:745][373]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.13.02:752][373]LogInit: FAudioDevice initialized.
+[2018.02.27-05.13.02:792][373]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.13.02:795][373]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.13.02
+[2018.02.27-05.13.02:796][373]LogWorld: Bringing up level for play took: 0.003592
+[2018.02.27-05.13.02:797][373]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.13.02:797][373]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.13.02:798][373]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.13.02:798][373]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.13.02:799][373]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.248
+[2018.02.27-05.13.02:799][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.15:380][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.15:424][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.20:221][357]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.13.42:563][447]LogSavePackage: Save=10.18ms
+[2018.02.27-05.13.42:563][447]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP995397AE4A802704B82390B43E7BE70F.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.13.42:565][447]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.13.45:746][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.13.45:768][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.45:768][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.13.45:769][613]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:13:45 AM)
+[2018.02.27-05.13.45:769][613]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.13.45:794][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023470s)
+[2018.02.27-05.13.45:798][613]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.13.45:799][613]LogPlayLevel: PIE: World Init took: (0.004690s)
+[2018.02.27-05.13.45:799][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.029112s)
+[2018.02.27-05.13.45:830][613]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.13.45:836][613]LogInit: FAudioDevice initialized.
+[2018.02.27-05.13.45:873][613]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.13.45:876][613]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.13.45
+[2018.02.27-05.13.45:877][613]LogWorld: Bringing up level for play took: 0.003282
+[2018.02.27-05.13.45:878][613]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.13.45:878][613]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.13.45:878][613]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.13.45:879][613]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.13.45:879][613]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.832
+[2018.02.27-05.13.45:880][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.59:758][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.13.59:802][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.14.00:935][498]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.14.00:957][498]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.14.00:958][498]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.14.00:958][498]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:14:00 AM)
+[2018.02.27-05.14.00:959][498]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.14.00:979][498]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020712s)
+[2018.02.27-05.14.00:981][498]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.14.00:982][498]LogPlayLevel: PIE: World Init took: (0.001901s)
+[2018.02.27-05.14.00:982][498]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.023488s)
+[2018.02.27-05.14.01:013][498]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.14.01:019][498]LogInit: FAudioDevice initialized.
+[2018.02.27-05.14.01:056][498]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.14.01:059][498]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.14.01
+[2018.02.27-05.14.01:060][498]LogWorld: Bringing up level for play took: 0.003216
+[2018.02.27-05.14.01:061][498]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.14.01:061][498]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.14.01:061][498]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.14.01:062][498]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.14.01:062][498]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap 0.014
+[2018.02.27-05.14.01:062][498]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.14.04:383][692]LogClass: Item collected: H
+[2018.02.27-05.14.07:167][859]LogClass: Item collected: H
+[2018.02.27-05.14.07:883][902]LogClass: Item collected: H
+[2018.02.27-05.14.10:034][ 31]LogClass: Item collected: H
+[2018.02.27-05.14.10:351][ 50]LogClass: Item collected: H
+[2018.02.27-05.14.10:667][ 69]LogClass: Item collected: H
+[2018.02.27-05.14.10:668][ 69]LogClass: Item collected: H
+[2018.02.27-05.14.17:641][487]LogCharacterMovement: FirstPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-90.80 Y=593.09 Z=0.00 Location: X=1419.73 Y=1362.83 Z=266.27 Normal: X=-0.28 Y=-0.12 Z=-0.95 PenetrationDepth:0.057 Actor:EditorCube14 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.02.27-05.14.42:556][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.14.42:596][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.16.34:471][636]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.02.27-05.17.42:451][511]LogSavePackage: Save=60.16ms
+[2018.02.27-05.17.42:451][511]LogSavePackage: Moving '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Saved/ProgrammingTestGameMode_BP038DC8D5415DDA07FA496DB0B1B9DFEA.tmp' to '../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset'
+[2018.02.27-05.17.42:454][511]LogSavePackage: Display: Finished SavePackage ../../../../../../Workspace/Unreal/Starbreeze/ProgrammingTest/Content/Blueprints/ProgrammingTestGameMode_BP.uasset
+[2018.02.27-05.17.46:772][748]LogTemp: Repeating last play command: Selected Viewport
+[2018.02.27-05.17.46:795][748]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.17.46:796][748]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.27-05.17.46:796][748]PIE: New page: PIE session: FirstPersonExampleMap (Feb 27, 2018, 7:17:46 AM)
+[2018.02.27-05.17.46:796][748]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2018.02.27-05.17.46:824][748]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027285s)
+[2018.02.27-05.17.46:828][748]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2018.02.27-05.17.46:828][748]LogPlayLevel: PIE: World Init took: (0.004671s)
+[2018.02.27-05.17.46:829][748]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.032911s)
+[2018.02.27-05.17.46:870][748]LogInit: XAudio2 using 'Headphones (Cirrus Logic CS4206B (AB 82))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.27-05.17.46:876][748]LogInit: FAudioDevice initialized.
+[2018.02.27-05.17.46:913][748]LogLoad: Game class is 'ProgrammingTestGameMode_BP_C'
+[2018.02.27-05.17.46:917][748]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2018.02.27-06.17.46
+[2018.02.27-05.17.46:918][748]LogWorld: Bringing up level for play took: 0.003785
+[2018.02.27-05.17.46:919][748]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.17.46:919][748]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.02.27-05.17.46:919][748]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.17.46:920][748]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.02.27-05.17.46:920][748]PIE: Play in editor start time for /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap -0.128
+[2018.02.27-05.17.46:920][748]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.17.51:990][ 46]LogClass: Item collected: H
+[2018.02.27-05.17.52:640][ 85]LogClass: Item collected: H
+[2018.02.27-05.17.53:972][165]LogClass: Item collected: H
+[2018.02.27-05.17.55:323][246]LogClass: Item collected: H
+[2018.02.27-05.17.55:640][265]LogClass: Item collected: H
+[2018.02.27-05.17.55:858][278]LogClass: Item collected: H
+[2018.02.27-05.18.04:075][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2018.02.27-05.18.04:119][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
